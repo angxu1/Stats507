@@ -1,1 +1,2 @@
 # Stats507
+[Homework2_q3](./Homework2_q3.py): Code from STATS507 Homework2 question3. Read, Clean, and Append the four cohorts spanning the years 2011-2018 from the National Health and Nutrition Examination Survey NHANES.
